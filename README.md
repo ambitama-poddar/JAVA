@@ -19,7 +19,7 @@ The following is a list of directories and their descriptions:
 - `Packages`: Code related to Packages
 - `RandomScripts`: Miscellaneous code
 - `Shape`: Code related to Shapes
-- `String`: Code related to String Manipulation
+- `Strings`: Code related to String Manipulation
 - `Threads`: Code related to Threads
 
 ## Files
