@@ -87,7 +87,7 @@ public class Gym{
     public static void main(String[] args) {
         ArrayList<GymMember> member=new ArrayList<>();
 
-        member.add(new GymMember("1234567890", "Sam", 25, 10));
+        member.add(new GymMember("1234567890", "Sam", 45, 10));
         member.add(new GymMember("1234567891", "John", 30, 5));
         member.add(new GymMember("1234567892", "Mary", 20, 15));
         member.add(new GymMember("1234567893", "Jane", 35, 20));
